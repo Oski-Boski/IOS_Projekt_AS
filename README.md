@@ -51,11 +51,6 @@ Aplikacja składa się z 5 ekranów mobilnych w rozmiarze 390×844px (iPhone 14)
 | 05 | Profil | Avatar, statystyki użytkownika, lista ustawień |
 
 <img width="1240" height="667" alt="image" src="https://github.com/user-attachments/assets/8aa9b2b7-24b8-4466-b1ec-3336553f60b1" />
-<img width="375" height="788" alt="image" src="https://github.com/user-attachments/assets/cebf0fd4-c7fe-42be-abab-c9ed59e75e1b" />
-<img width="398" height="776" alt="image" src="https://github.com/user-attachments/assets/24841af2-4d12-4ea1-9e14-f1ee605b9366" />
-<img width="387" height="764" alt="image" src="https://github.com/user-attachments/assets/6f9bb836-d1b2-4b4d-af38-409b59741543" />
-<img width="381" height="770" alt="image" src="https://github.com/user-attachments/assets/076bd09a-ac69-4ef3-8e08-629566e00740" />
-<img width="386" height="771" alt="image" src="https://github.com/user-attachments/assets/45221070-e1eb-4cf9-9e4d-a4cfc14d51ed" />
 
 
 ---
